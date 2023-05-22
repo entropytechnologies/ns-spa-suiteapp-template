@@ -1,0 +1,11 @@
+/**
+Netsuite Override
+*/  
+.uir-page-title {
+    display: none;
+}
+
+div#body div#div__body {
+    padding: 0px !important;
+    
+}
